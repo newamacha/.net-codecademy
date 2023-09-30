@@ -983,8 +983,8 @@ namespace sanam_maharjan
 
         //-------------------------------------------------------CHAPTER 9-----------------------------------------------------------------------------
         //LISTS AND LINQ
-        static void Main()
-        {
+        /* static void Main()
+        { */
             //----------------------------LISTS--------------------------------------
             //CREATING AND ADDING
             /* List<double> marathons = new List<double>();
@@ -1130,8 +1130,8 @@ namespace sanam_maharjan
                 Console.WriteLine(h);
             } */
 
-            Console.ReadKey();
-        }
+            /* Console.ReadKey();
+        } */
     }
 } 
 
